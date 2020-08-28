@@ -1,0 +1,9 @@
+header {
+    padding: 10px;
+    background-color: #008577;
+}
+
+.title {
+    color: white;
+    font-weight: 700;
+}
